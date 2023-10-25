@@ -1,6 +1,7 @@
 {
   "name": "handson-docker",
   "private": true,
+  "author": "@xokacar ookay.dev",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
