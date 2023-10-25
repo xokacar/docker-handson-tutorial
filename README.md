@@ -91,7 +91,9 @@ docker run -d -p 3000:3000 the-image-name
 
 **If everything goes on the way. Your image and container created now we can check by opening any browser you like and check the  http://localhost:3000  Enjoy your Docker containerized application! 🐳**
 
-##Docker Compose
+
+
+## Docker Compose
 
 A single source of truth (SSOT) yaml file for creating and managin docker containers. The main advantage of the docker compose is easiest way to create and manage multi container Docker apps.
 
