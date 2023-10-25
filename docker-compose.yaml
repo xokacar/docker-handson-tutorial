@@ -1,0 +1,8 @@
+version: "3" #We specify that which docker compose syntax we are going to use.
+
+services:
+  app: 
+    build:
+      dockerfile: Dockerfile
+    ports: 
+      - "3000:3000"
